@@ -1,4 +1,4 @@
-# SaveWindwosSpotlight
+# SaveWindowsSpotlight
 保存Windows聚焦图片
 
 
